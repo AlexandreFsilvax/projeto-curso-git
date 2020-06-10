@@ -24,3 +24,4 @@ Qual comando se utiliza para ver as modificações feitas no arquivo? git diff N
 Endendido
 O que é git log --oneline ? Mostra um log mais objetivo 
 O que é Git commit -am? Comando para adicionar um arquivo e fazer o commit (testado com -am)
+O que é Git Diff? Mostra alterações no arquivo que o git está rastreando.
