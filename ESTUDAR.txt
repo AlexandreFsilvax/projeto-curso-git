@@ -1,4 +1,3 @@
-Teste de alteração de arquivo
 https://vestibular1.com.br/carreiras/as-tendencias/administracao-com-enfase-em-analise-de-sistemas/
 
 https://git-scm.com/doc
@@ -6,7 +5,6 @@ O que é Deploy? É colocar o projeto em produção?
 O que é Git Rebase? Junta arquivo de duas branches sem gerar novo evento
 O que é GitLog --stat? Comando para consultar os commits e suas estatísticas abreviadas criadas no github
 O que é Git tag ?Comando para marcar compromissos específicos no Git
-O que é Git commit -a -m? Comando para adicionar um arquivo e fazer o commit
 O que é Git remote -v? Comando pra  que sejam listados todos os repositórios remotos e urls
 O que é Git remote? Comando para ver um repositório remoto
 QUal o comando para configurar o usuario e email na sua máquina? git config --global user.name "Seu nome" - git config --global user.email "Seu endereço de e-mail"
@@ -20,3 +18,8 @@ Qual o comando utilizado para editar a mensagem do último commit? git commit --
 Qual comando se utiliza para ver as modificações feitas no arquivo? git diff NOME_DO_ARQUIVO
 
 
+
+
+Endendido
+O que é git log --oneline ? Mostra um log mais objetivo 
+O que é Git commit -am? Comando para adicionar um arquivo e fazer o commit (testado com -am)
