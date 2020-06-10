@@ -1,0 +1,21 @@
+https://vestibular1.com.br/carreiras/as-tendencias/administracao-com-enfase-em-analise-de-sistemas/
+
+https://git-scm.com/doc
+O que é Deploy? É colocar o projeto em produção?
+O que é Git Rebase? Junta arquivo de duas branches sem gerar novo evento
+O que é GitLog --stat? Comando para consultar os commits e suas estatísticas abreviadas criadas no github
+O que é Git tag ?Comando para marcar compromissos específicos no Git
+O que é Git commit -a -m? Comando para adicionar um arquivo e fazer o commit
+O que é Git remote -v? Comando pra  que sejam listados todos os repositórios remotos e urls
+O que é Git remote? Comando para ver um repositório remoto
+QUal o comando para configurar o usuario e email na sua máquina? git config --global user.name "Seu nome" - git config --global user.email "Seu endereço de e-mail"
+Qual comando você utiliza para retirar um arquivo adicionado para commitar após utilizar o git add? git reset HEAD NOME_DO_ARQUIVO
+Quais dados do commit são listados quando o comando 'git log' é usado? O id, a branch, a data, o e-mail e o nome do autor.
+QUal comando se deve utilizar quado você quer resetar as alterações de um arquivo? git checkout --NOME_DO_ARQUIVO
+Sequencia para unir alterações commitadas e enviar para o repositório remoto na branch master? Selecionar Brach, git merge NOME_DA_BRANCH, git push origin master
+Comando para enviar a nossa branch do repositório local para o repositório remoto? git push origin NOME_DA_BRANCH
+Quais branches são listadas no repositório do GitHub? Todas que foram feitas push
+Qual o comando utilizado para editar a mensagem do último commit? git commit --amend
+Qual comando se utiliza para ver as modificações feitas no arquivo? git diff NOME_DO_ARQUIVO
+
+
