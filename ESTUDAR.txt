@@ -25,3 +25,16 @@ Endendido
 O que é git log --oneline ? Mostra um log mais objetivo 
 O que é Git commit -am? Comando para adicionar um arquivo e fazer o commit (testado com -am)
 O que é Git Diff? Mostra alterações no arquivo que o git está rastreando.
+
+
+O que é Git commit -a -m? Comando para adicionar um arquivo e fazer o commit
+Exemplo: alterei um arquivo, logo o git status irá avisar que há um arquivo modificado, logo posso adicionar e commitar com a mensagem do porque foi aterado.
+
+O que é Git-ls : mostra os arquivos na branch atual
+
+
+O que é Deploy? É colocar o projeto em produção, colocar no ar. Quando sobe os arquivos para um servidor. Pode ser manual : pequeno ajuste no algoritmo, parcialmente automatizado: quando faz um push e atualiza o servidor de hospedagem do git . Automatizado: Uma forma de integgração contínua como Jenkins para realizar teste automaticamente. Faz mais sentido em Desenvolvimento Web, quando queremos rodar o projeto já finalizado num ambiente acessível para todos. Heroku é uma empresa que vê projetos no git hub e testa-os. 
+
+
+O que é Git Rebase? Junta arquivo de duas branches sem gerar novo evento. Apesar de ter lido a documentação, percebi que git rebase pode ser usado para alterar a ramificação, logo, os arquivos também serão por isso junta arquivo sem gerar novo evento. Porém precisa praticar
+
