@@ -2,9 +2,7 @@ TESTE DE RECUPERAR COMMIT
 https://vestibular1.com.br/carreiras/as-tendencias/administracao-com-enfase-em-analise-de-sistemas/
 
 https://git-scm.com/doc
-O que é Deploy? É colocar o projeto em produção?
-O que é Git Rebase? Junta arquivo de duas branches sem gerar novo evento
-O que é GitLog --stat? Comando para consultar os commits e suas estatísticas abreviadas criadas no github
+
 O que é Git tag ?Comando para marcar compromissos específicos no Git
 O que é Git remote -v? Comando pra  que sejam listados todos os repositórios remotos e urls
 O que é Git remote? Comando para ver um repositório remoto
