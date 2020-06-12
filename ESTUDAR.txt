@@ -3,7 +3,6 @@ https://vestibular1.com.br/carreiras/as-tendencias/administracao-com-enfase-em-a
 
 https://git-scm.com/doc
 
-O que é Git tag ?Comando para marcar compromissos específicos no Git
 O que é Git remote -v? Comando pra  que sejam listados todos os repositórios remotos e urls
 O que é Git remote? Comando para ver um repositório remoto
 QUal o comando para configurar o usuario e email na sua máquina? git config --global user.name "Seu nome" - git config --global user.email "Seu endereço de e-mail"
@@ -36,3 +35,4 @@ O que é Deploy? É colocar o projeto em produção, colocar no ar. Quando sobe 
 
 O que é Git Rebase? Junta arquivo de duas branches sem gerar novo evento. Apesar de ter lido a documentação, percebi que git rebase pode ser usado para alterar a ramificação, logo, os arquivos também serão por isso junta arquivo sem gerar novo evento. Porém precisa praticar
 
+O que é Git tag ?Comando para marcar compromissos específicos no Git, comando git tag -a <nomedaTag> -m <Mensagem/anotação>
