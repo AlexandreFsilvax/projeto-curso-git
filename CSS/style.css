@@ -1,0 +1,33 @@
+body{ background:hsl(157, 43%, 68%);
+      Margin-right:140px;
+      Margin-left:140px;      }
+
+h1{ color: rgb(27, 119, 68);
+    font-family: Georgia;
+}
+h3 {
+    Font-family: Times;
+    color: rgb(41, 39, 39);
+    Margin-right: 50px;
+    Margin-Left: 50 px;
+}
+p{ font-style: italic;
+    font-style:unset;
+}
+footer{ margin-top: 300px;
+margin-bottom: auto;
+margin-left:50px;
+margin-right: 50px;
+}
+img{ margin: 15px   ;}
+
+.img_perfil{margin-left:250px;
+            margin-right:300px;
+        }
+ul{margin-left:350px;
+margin-bottom:400px;
+}
+header{margin:100px
+margin-top:20px}
+
+
